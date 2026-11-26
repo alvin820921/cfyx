@@ -7,3 +7,9 @@
 [2606:4700:9c6b::6499:977c]:443#AMS-CN-Europe-Amsterdam-AS4808-China Unicom Beijing Province Network-2606:4700:9c6b::6499:977c
 172.66.169.161:443#HKG-CN-Asia Pacific-Hong Kong-AS2914-NTT America, Inc.-172.66.169.161
 216.236.51.144:1891#HKG-HK-Asia Pacific-Hong Kong-AS138997-Eons Data Communications Limited
+[2606:4700:311b::6812:3222]:443#LAX-CN-North America-Los Angeles-AS4808-China Unicom Beijing Province Network
+104.16.4.14:443#HKG-CN-Asia Pacific-Hong Kong-AS2914-NTT America, Inc.
+[2606:4700:9ad3::b43f:924d]:443#AMS-CN-Europe-Amsterdam-AS4808-China Unicom Beijing Province Network
+104.20.34.13:443#HKG-HK-Asia Pacific-Hong Kong-AS2914-NTT America, Inc.
+172.66.169.161:443#HKG-HK-Asia Pacific-Hong Kong-AS2914-NTT America, Inc.
+104.18.50.34:443#LAX-CN-North America-Los Angeles-AS56048-China Mobile Communicaitons Corporation
